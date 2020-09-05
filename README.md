@@ -1,5 +1,5 @@
 # Slack Modal Example
-![DEMO](https://github.com/nicoJN/slack-modal-examples/images/sample.gif)
+![DEMO](https://github.com/nicoJN/slack-modal-examples/blob/master/images/sample.gif)
 
 This is a simple example of slack modal application written in Go. It contains fundamental functions like 
 - Authorization
